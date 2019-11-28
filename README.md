@@ -12,4 +12,4 @@ There are multiple incidents of bitcoin stealing - as this is not actually unpos
 There is popular key generator [NOTE: modified for purpose of this exercise]. It is used by many guys to (securely) get their own unique keys. Well, securely. But, can you look into the code and find vulnerability? Can you somehow brute force generated keys and find some with money? Let's steal some money!
 
 # The task
-You will complete the homework by sending the correct private key to me via email along with text description of your solution.
+You will complete the homework by sending the correct private key to me via email along with **text description and code** of your solution.
